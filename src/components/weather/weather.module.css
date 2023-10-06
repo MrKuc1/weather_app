@@ -1,0 +1,45 @@
+.weather {
+    padding: 1rem 2rem;
+    display: grid;
+    grid-gap: 0.5rem;
+}
+
+.weatherTempField {
+    display: flex;
+    justify-content: center;
+}
+
+.weatherDate {
+    font-size: 1.2rem;
+}
+
+.weatherLocation {
+    font-size: 1.9rem;
+    font-weight: bold;
+}
+
+.weatherTempNow {
+    display: flex;
+    align-items: center;
+    font-size: 4rem;
+    font-weight: bold;
+    height: 70%;
+}
+
+.weatherTempMinMax {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+    height: 30%;
+}
+
+.weatherCondition {
+    display: flex;
+    align-items: center;
+}
+
+.weatherForecast {
+    display: flex;
+    justify-content: center;
+}

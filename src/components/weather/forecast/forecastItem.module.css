@@ -1,0 +1,15 @@
+.forecastItemField {
+    margin: 0.8rem;
+    padding: 1rem;
+    cursor: pointer;
+}
+
+.forecastItemDate {
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+}
+
+.forecastItemTemp {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
